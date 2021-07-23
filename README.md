@@ -9,7 +9,7 @@
 和配置文件
 vue-ssr-client-manifest.json
 vue-ssr-server-bundle.json
-index.html 删除也不会有任何影响
+index.html 最好删除
 
 ```
 
